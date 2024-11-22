@@ -15,5 +15,8 @@ Sou uma pessoa proativa e procuro dar o meu melhor nos projetos diários, estou 
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+55(83)994188428)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jeanny-elizabete-7a144733a_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-
-![Snake animation](https://github.com/Elizabx/Elizabx/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elizbx/Elizabx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elizbx/Elizabx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elizabx/Elizabx/output/github-contribution-grid-snake.svg">
+</picture>
